@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anurag Kashyap</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carb0rane" alt="carb0rane" /></a> </p>
 
 - 📝 I regularly write articles on [https://anurag-kashyap.medium.com](https://anurag-kashyap.medium.com)
 
@@ -21,4 +20,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carb0rane&show_icons=true&locale=en" alt="carb0rane" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carb0rane&" alt="carb0rane" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carb0rane" alt="carb0rane" /></a> </p>
 
