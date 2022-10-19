@@ -21,5 +21,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carb0rane&" alt="carb0rane" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carb0rane" alt="carb0rane" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carb0rane&theme=dracula" alt="carb0rane" /></a> </p>
 
